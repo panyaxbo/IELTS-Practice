@@ -3,19 +3,20 @@
 
 ก่อนที่เราจะเริ่มศึกษาในแต่ละส่วน เรามาพิจารณาดูรูปแบบของข้อสอบ IELTS กันก่อน ซึ่งจะมี 2 แบบด้วยกันคือ IELTS Academic และ IELTS General Training ทั้ง 2 แบบนี้ในส่วนของ Listening และ Speaking จะเหมือนกันแต่จะต่างกันที่ Reading และ Writing 
 
-##Listening
+## Listening
 
 
-##Reading 
+## Reading 
 
-Tip สำหับการฝึกทักษะการอ่านในการสอบ IELTS
+Tip สำหรับการฝึกทักษะการอ่านในการสอบ IELTS
 
+Emma จาก engVid แนะนำเกร็ดเล็กน้อยสำหรับฝึกทักษะการอ่าน
 [![Emma จาก engVid แนะนำเกร็ดเล็กน้อยสำหรับฝึกทักษะการอ่าน](http://img.youtube.com/vi/bbDliT5EN-w/0.jpg)](https://www.youtube.com/watch?v=bbDliT5EN-w)
 
-##Writing 
+## Writing 
 
 
-##Speaking
+## Speaking
 ตัวอย่างวีดีโอทดสอบทักษะการพูดในการสอบสัมภาษณ์ IELTS โดยจำลองสถานการณ์จริงๆ 
 
 [![การสอบทักษะพูดสำหรับในระดับคะแนน 6](http://img.youtube.com/vi/sDw-m80w9KM/0.jpg)](https://www.youtube.com/watch?v=sDw-m80w9KM)
